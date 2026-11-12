@@ -1,0 +1,5 @@
+# Unifica los finales de línea y marca los binarios
+* text=auto
+*.png binary
+*.gif binary
+*.webp binary
